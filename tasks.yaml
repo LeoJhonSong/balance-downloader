@@ -1,0 +1,9 @@
+- name: a wallet alias name
+  wallet: '0xb9afa64ab49d82289bAb1B1DcaFBbe18fa9E9907'
+  access: 'd42329521f94abbc705aa97b87bf7fb90e027d36'
+  protocol_ids:
+    - cro_mmf
+    - avax_traderjoexyz
+    - cro_vaultmmf
+    - matic_quickswap
+    - matic_klimadao
